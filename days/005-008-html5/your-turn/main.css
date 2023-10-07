@@ -1,0 +1,57 @@
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.wide-input {
+    width: 300px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-button {
+    background-color: #FFFFFF;
+    border-radius: .2rem;
+    border-width: 1px;
+    color: #504f4f;
+    font-size: small;
+}
+
+.small {
+    font-size: small;
+}
+
+.padded-right {
+    margin-right: 4px;
+}
+
+.register-button {
+    background-color: white;
+    border-radius: .75rem;
+}
+
+.padded {
+    margin: 7px;
+}

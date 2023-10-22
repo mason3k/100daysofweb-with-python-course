@@ -1,0 +1,41 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+    background-color: darkslategray;
+    color: wheat;
+}
+
+.nav {
+    display: inline;
+}
+
+.nav-list {
+    display: inline;
+    float: left;
+}
+
+.nav-list li:first-child {
+    font-size: xx-large;
+}
+
+.nav-list li {
+    display: inline;
+    padding: 10px;
+}
+
+.nav-list a {
+    text-decoration: None;
+    color: wheat
+}
+
+.nav-list a:hover {
+    color: white;
+}
+
+.nav img {
+    height: 30px;
+    border-radius: 50%;
+    padding: 1px ;
+    float: left;
+}
+
